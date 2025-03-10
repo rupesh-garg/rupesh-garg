@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rupesh Garg, nice to meet you
 - 👀 I’m interested in web/app devlopment
-- 🌱 I’m currently learning Kotlin/C++ 
+- 🌱 I’m currently learning Web development/C++ 
 - 😄 Pronouns: he/him
